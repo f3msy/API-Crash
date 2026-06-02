@@ -1,4 +1,4 @@
-# Basic Realm API Crash Script
+# Basic Realm API Crash Tool
 
 A command-line tool for crashing Minecraft Realms.
 
