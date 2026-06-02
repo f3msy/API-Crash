@@ -1,3 +1,3 @@
 @echo off
-node loop
+"C:\Program Files\Git\bin\bash.exe" start.sh
 pause
