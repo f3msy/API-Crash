@@ -33,7 +33,7 @@ node loop
 - Enter a realm code to join a Minecraft Realm
 - After joining, you can return to the menu to join another realm
 
-![Screenshot](https://cdn.discordapp.com/attachments/1462810179060896032/1511391094418702376/Screenshot_2026-06-02_160642.png?ex=6a204825&is=6a1ef6a5&hm=25c5ccec45b80ec177cc87058a4256ccb32de8db00ed6ada2a307efb75fba913&)
+![Screenshot](https://cdn.discordapp.com/attachments/1462810179060896032/1511391573462487110/Screenshot_2026-06-02_173025.png?ex=6a204897&is=6a1ef717&hm=53c444bf2de1f6a06267e4ad57e66d472857b861c0bd26729697a64022563e34&)
 
 **Option 2: Crash Existing Realm**
 - Displays a list of your realms with their status (open/closed)
