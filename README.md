@@ -26,6 +26,7 @@ Run the script:
 ```bash
 node loop
 ```
+Or Open the `start.bat` file.
 
 ### Menu Options
 
