@@ -29,9 +29,6 @@ node loop
 
 ### Menu Options
 
-![Screenshot](https://cdn.discordapp.com/attachments/1462810179060896032/1511363638114386061/Screenshot_2026-06-02_151016.png?ex=6a202e93&is=6a1edd13&hm=804dac96efab30da0015eb8a64da22ed65b02b51b934a8a3870e3fed9a9cb9e4&)
-
-
 **Option 1: Join Realm by Code**
 - Enter a realm code to join a Minecraft Realm
 - After joining, you can return to the menu to join another realm
@@ -41,6 +38,8 @@ node loop
 - Shows realm name and ID
 - Select a realm by ID to crash it
 - Only open realms can be crashed
+
+![Screenshot](https://cdn.discordapp.com/attachments/1462810179060896032/1511363638114386061/Screenshot_2026-06-02_151016.png?ex=6a202e93&is=6a1edd13&hm=804dac96efab30da0015eb8a64da22ed65b02b51b934a8a3870e3fed9a9cb9e4&)
 
 ### Authentication
 
