@@ -22,9 +22,9 @@ npm install
 
 ## Usage
 
-Run the script:
+Run the script, or open the **`start.bat`** file.
 ```bash
-node loop or open the **start.bat** file.
+node loop
 ```
 
 ### Menu Options
