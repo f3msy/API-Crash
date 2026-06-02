@@ -24,9 +24,8 @@ npm install
 
 Run the script:
 ```bash
-node loop
+node loop or open the **start.bat** file.
 ```
-Or Open the `start.bat` file.
 
 ### Menu Options
 
